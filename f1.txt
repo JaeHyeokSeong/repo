@@ -1,4 +1,6 @@
-a
+int main() {
+	return 0;
+}
 b
 c
 d
